@@ -1,6 +1,8 @@
-body{
-    background-color: aquamarine;
+.docu{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
-p{
-    color: aqua;
+.head{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
 }
