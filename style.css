@@ -6,3 +6,22 @@
     font-size: xx-large;
     font-family: 'Courier New', Courier, monospace;
 }
+.hr{
+    height: 10px;
+    border-radius: 5px;
+}
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+}
+.rose{
+    font-family: 'Courier New', Courier, monospace;
+}
+.bhaihai{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.profile{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
